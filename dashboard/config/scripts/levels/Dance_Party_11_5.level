@@ -24,7 +24,7 @@
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
     "include_shared_functions": "false",
-    "free_play": "true",
+    "free_play": "false",
     "hide_view_data_button": "false",
     "show_debug_watch": "false",
     "expand_debugger": "false",
